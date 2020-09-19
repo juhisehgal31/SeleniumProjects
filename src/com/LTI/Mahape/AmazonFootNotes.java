@@ -8,10 +8,7 @@ import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-//hello today is monday and it is a sunny day
-//hola
-
-//i am very hungry today
+//Today we are learning branching concept
 public class AmazonFootNotes {
 
 	public static void main(String[] args) throws Exception{
